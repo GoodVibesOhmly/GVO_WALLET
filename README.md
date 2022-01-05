@@ -1,9 +1,8 @@
 # Olympus Mobile App
 
-A React Native app with the goal of exposing the olympus ecosystem to a wider,
-less-experienced-with-crypto audience.
+A React Native repo with the goal of integrating this wallet in the upcOHMming GVO travel dapp
 
-![app](docs/screenshot.png)
+🄶🄾🄾🄳 🅅🄸🄱🄴🅂 🄾🄷🄼🄻🅈
 
 ## Installation
 
